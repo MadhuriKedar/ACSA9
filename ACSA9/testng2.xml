@@ -1,0 +1,9 @@
+<suite name="Suite2">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="testNG.P16"/>
+      <class name="testNG.P14"/>
+      <class name="testNG.P15"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite2 -->
